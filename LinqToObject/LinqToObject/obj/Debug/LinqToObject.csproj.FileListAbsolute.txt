@@ -1,0 +1,6 @@
+C:\Users\elkady\Desktop\LINQ\Day1\Lab\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe.config
+C:\Users\elkady\Desktop\LINQ\Day1\Lab\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe
+C:\Users\elkady\Desktop\LINQ\Day1\Lab\LinqToObject\LinqToObject\bin\Debug\LinqToObject.pdb
+C:\Users\elkady\Desktop\LINQ\Day1\Lab\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csprojResolveAssemblyReference.cache
+C:\Users\elkady\Desktop\LINQ\Day1\Lab\LinqToObject\LinqToObject\obj\Debug\LinqToObject.exe
+C:\Users\elkady\Desktop\LINQ\Day1\Lab\LinqToObject\LinqToObject\obj\Debug\LinqToObject.pdb

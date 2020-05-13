@@ -1,0 +1,7 @@
+C:\Users\elkady\Desktop\LINQ\Day2\lab\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe.config
+E:\ITI\LINQ\Day2\lab\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe.config
+E:\ITI\LINQ\Day2\lab\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe
+E:\ITI\LINQ\Day2\lab\LinqToSql\LinqToSql\bin\Debug\LinqToSql.pdb
+E:\ITI\LINQ\Day2\lab\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csprojResolveAssemblyReference.cache
+E:\ITI\LINQ\Day2\lab\LinqToSql\LinqToSql\obj\Debug\LinqToSql.exe
+E:\ITI\LINQ\Day2\lab\LinqToSql\LinqToSql\obj\Debug\LinqToSql.pdb
